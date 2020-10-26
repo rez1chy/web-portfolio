@@ -1,0 +1,18 @@
+body{
+    font-family: 'Dosis', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.highlight{
+    color: blueviolet;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
