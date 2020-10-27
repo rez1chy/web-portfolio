@@ -5,8 +5,17 @@ body{
 h1{
     font-size: 40px;
 }
+h2{
+    font-size: 30px;   
+}
+h3{
+    color: royalblue;
+}
 .highlight{
     color: blueviolet;
+}
+p{
+    color: dimgray;
 }
 .half-width{
     width: 30%;
@@ -32,4 +41,9 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
