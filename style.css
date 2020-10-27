@@ -23,6 +23,7 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 100px;
 }
 .link-button{
     text-decoration: none;
